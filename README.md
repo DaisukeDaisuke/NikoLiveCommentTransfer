@@ -1,5 +1,5 @@
 # NikoLiveCommentTransfer
-ニコ生のコメントを棒読みちゃんのhttpサーバーに転送するchrome系拡張機能です。生放送での使用を想定した暴走防止の制限があります。
+ニコ生のコメントのdomを監視し、棒読みちゃんのhttpサーバーに転送するchrome系拡張機能です。生放送での使用を想定した暴走防止の制限があります。
 
 # インストール方法
 棒読みちゃんを[ダウンロード](https://chi.usamimi.info/Program/Application/BouyomiChan/)します。  
